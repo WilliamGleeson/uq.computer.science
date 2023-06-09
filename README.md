@@ -1,4 +1,8 @@
-🔖 [**Bachelor of Computer Science - The University of Queensland**](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451)
+Details of the undergraduate degree/courses I studied at [The University of Queensland](https://www.uq.edu.au/)
+
+***
+
+🔖 [**Bachelor of Computer Science**](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451)
 
 ## YEAR ONE
 
