@@ -1,4 +1,4 @@
-# Details of the undergraduate degree/subjects I studied at [The University of Queensland](https://www.uq.edu.au/)
+## Details of the undergraduate degree/subjects I studied at [The University of Queensland](https://www.uq.edu.au/)
 
 ***
 
