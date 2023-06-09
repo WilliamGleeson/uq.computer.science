@@ -1,5 +1,5 @@
-University of Queensland (Computer Science)
--------------------------------------------
+The University of Queensland (Computer Science)
+-----------------------------------------------
 
 🔖 [**Bachelor of Computer Science**](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451)
 
