@@ -1,8 +1,8 @@
-Details of the undergraduate degree I studied at :school: [**The University of Queensland**](https://www.uq.edu.au/)
+Details of the undergraduate degree I studied at [**The University of Queensland**](https://www.uq.edu.au/)  :school:
 
 ***
 
-🔖 [Bachelor of Computer Science](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451)
+🔖 [Bachelor of Computer Science](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451) :computer:
 
 ## YEAR ONE
 
