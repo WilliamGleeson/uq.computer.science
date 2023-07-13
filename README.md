@@ -1,4 +1,4 @@
-Details of the undergraduate degree I studied at [**The University of Queensland**](https://www.uq.edu.au/)
+Details of the undergraduate degree I studied at :school: [**The University of Queensland**](https://www.uq.edu.au/)
 
 ***
 
